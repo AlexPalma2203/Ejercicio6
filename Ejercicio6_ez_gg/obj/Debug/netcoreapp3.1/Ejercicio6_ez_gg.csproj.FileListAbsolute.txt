@@ -1,0 +1,13 @@
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\bin\Debug\netcoreapp3.1\Ejercicio6_ez_gg.exe
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\bin\Debug\netcoreapp3.1\Ejercicio6_ez_gg.deps.json
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\bin\Debug\netcoreapp3.1\Ejercicio6_ez_gg.runtimeconfig.json
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\bin\Debug\netcoreapp3.1\Ejercicio6_ez_gg.runtimeconfig.dev.json
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\bin\Debug\netcoreapp3.1\Ejercicio6_ez_gg.dll
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\bin\Debug\netcoreapp3.1\Ejercicio6_ez_gg.pdb
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\obj\Debug\netcoreapp3.1\Ejercicio6_ez_gg.csprojAssemblyReference.cache
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\obj\Debug\netcoreapp3.1\Ejercicio6_ez_gg.csproj.CoreCompileInputs.cache
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\obj\Debug\netcoreapp3.1\Ejercicio6_ez_gg.AssemblyInfoInputs.cache
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\obj\Debug\netcoreapp3.1\Ejercicio6_ez_gg.AssemblyInfo.cs
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\obj\Debug\netcoreapp3.1\Ejercicio6_ez_gg.dll
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\obj\Debug\netcoreapp3.1\Ejercicio6_ez_gg.pdb
+C:\Users\Alex Palma\Desktop\Ejercicio6_ez_gg\Ejercicio6_ez_gg\obj\Debug\netcoreapp3.1\Ejercicio6_ez_gg.genruntimeconfig.cache
